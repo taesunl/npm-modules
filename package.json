@@ -1,0 +1,11 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "my first module",
+  "main": "NodeTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taesunl <tslee1003@gmail.com>",
+  "license": "ISC"
+}
