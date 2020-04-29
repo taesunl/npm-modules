@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "0.0.1",
+  "description": "",
+  "main": "NodeTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taesunl/npm-modules.git"
+  },
+  "author": "taesunl <tslee1003@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taesunl/npm-modules/issues"
+  },
+  "homepage": "https://github.com/taesunl/npm-modules#readme"
+}
